@@ -3,25 +3,26 @@
 # Projektübersicht — GitHub RwHexa
 
 **Reinhard Wermeling (RwTec)** · erstellt mit Claude Code
-**32 Repositories** · Zeitraum **Januar 2025 – Juli 2026** · 7 Themenfelder · Stand 25. Juli 2026
+**33 Repositories** · Zeitraum **Januar 2025 – Juli 2026** · 7 Themenfelder · Stand 26. Juli 2026
 
 > 🔒 = privates Repository · Sprache in Klammern als Kürzel
 
 | Kennzahl | Wert |
 |---|---|
-| Projekte gesamt | 32 |
+| Projekte gesamt | 33 |
 | SmartHome / IoT | 9 |
 | Fußball-Turniere | 5 |
-| Elektronik | 4 |
+| Elektronik | 5 |
 | Delphi / TMS | 4 |
 | privat 🔒 | 10 |
 
 ---
 
-## 🔌 Elektronik & Schaltungstechnik (4)
+## 🔌 Elektronik & Schaltungstechnik (5)
 
 | Projekt | Zeitraum | Kurzbeschreibung |
 |---|---|---|
+| **SpsSteuerung** | Jul 2026 | SPS-Programmierung mit **OpenPLC V4.2.9** auf **ESP32 WROOM**: Kontaktplan (KOP), E/A-Pin-Mapping (%IX/%QX → GPIO), Runtime direkt als Firmware geflasht (ohne Windows-Runtime), Live-Debugging. Dokumentierte Inbetriebnahme; Ausbau mit Timern (TON/TOF) und Modbus geplant. |
 | **NetzgeraetRw** (HTML) | Jul 2026 | 12-V-Sperrwandler (Flyback) mit PWM-Controller OB2263 — Lehr-/Werkstattbericht: Schaltung verstehen, sicher prüfen (Messungen), simulieren (Falstad + HTML), KiCad-Platine. |
 | **GeminiNetz** (TypeScript) 🔒 | Jul 2026 | Schaltnetzteil — begleitendes Arbeits-/Entwurfsrepository. |
 | **nf_verstaerker** | Jun 2026 | NF-Verstärker: Aufbau und Dokumentation einer Niederfrequenz-Verstärkerschaltung. |
@@ -87,4 +88,4 @@
 
 ---
 
-*Projektübersicht · GitHub RwHexa · erstellt mit Claude Code · Stand 25.07.2026*
+*Projektübersicht · GitHub RwHexa · erstellt mit Claude Code · Stand 26.07.2026*
